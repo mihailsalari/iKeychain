@@ -3,7 +3,7 @@ Wrapper for Keychain(Security framework)
 
 ## Demo will be added after.
 
-[![Demo Doccou alpha](https://github.com/mihailsalari/iKeychain/blob/master/iKeychain/Screens/Screen1.png)](https://www.youtube.com/)
+[![Demo Doccou alpha](https://github.com/mihailsalari/iKeychain/blob/master/Screens/Screen1.png)](https://www.youtube.com/)
 
 ## Support
 
